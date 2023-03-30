@@ -11,9 +11,18 @@
       "title": "Desarrollador de software aficionado a la música",
       "description": "Soy un apasionado del desarrollo de software, al cual llevo dedicado toda mi vida. Disfruto desarrollando software y creando aplicaciones, algo que sin duda me resulta muy gratificante. Además soy un gran aficionado al submarinismo y a tocar la batería siempre, actividades que practico con frecuencia. Patrón de embarcaciones de recreo sin barco, que se le va a hacer.",
       "location": {
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Motril",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/jose-maria-moreno/"
+      }
+    ]
   },
   "knowledge": {
     "hardSkills": [
@@ -26,6 +35,14 @@
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/jose-maria-moreno/"
+        }
+      ]
+    },
     "status": "searchingActively"
   }
 }
