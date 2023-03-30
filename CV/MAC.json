@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Motril",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Motril"
       }
     },
     "relevantLinks": [
@@ -30,11 +29,64 @@
       }
     ]
   },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Ériddes Informática Industrial, S.L."
+        },
+        "roles": [
+          {
+            "name": "Desarrollador",
+            "startDate": "2017-06-01",
+            "challenges": [
+              {
+                "description": "Desarrollo de aplicaciones móviles con Ionic o Electron, Visores web con HTML5 y API Rest con Node.JS, Express, PostgreSQL y MongoDB, desplegadas en local o en Heroku."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "Express",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "Ionic",
+                "type": "technology"
+              },
+              {
+                "name": "MongoDB",
+                "type": "technology"
+              },
+              {
+                "name": "NodeJS",
+                "type": "technology"
+              },
+              {
+                "name": "PostgreSQL",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -144,7 +196,6 @@
           "URL": "https://www.linkedin.com/in/jose-maria-moreno/"
         }
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
