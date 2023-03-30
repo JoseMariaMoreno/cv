@@ -22,6 +22,12 @@
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/jose-maria-moreno/"
       }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Otras actividades",
+        "fact": "Practico el fútbol, hago submarinismo y toco la batería."
+      }
     ]
   },
   "knowledge": {
