@@ -9,7 +9,7 @@
       "name": "José María",
       "surnames": "Moreno Terrén",
       "title": "Desarrollador de software aficionado a la música",
-      "description": "Soy un apasionado del desarrollo de software, al cual llevo dedicado toda mi vida. Disfruto desarrollando software y creando aplicaciones, algo que sin duda me resulta muy gratificante. Además soy un gran aficionado al submarinismo y a tocar la batería siempre, actividades que practico con frecuencia. Patrón de embarcaciones de recreo sin barco, que se le va a hacer.",
+      "description": "Soy un apasionado del desarrollo de software, al cual llevo dedicado toda mi vida. Disfruto desarrollando software y creando aplicaciones, algo que sin duda me resulta muy gratificante. Además soy un gran aficionado al submarinismo y a tocar la batería, actividades que practico con frecuencia. Ah, y patrón de embarcaciones de recreo sin barco, que se le va a hacer.",
       "location": {
         "country": "España",
         "region": "Andalucía",
@@ -25,6 +25,12 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "English",
+        "level": "Full professional proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
