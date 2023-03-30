@@ -206,13 +206,44 @@
           "type": "technology"
         },
         {
+          "name": "Docker",
+          "type": "technology"
+        },
+        {
+          "name": "Heroku",
+          "type": "technology"
+        },
+        {
           "name": "Ionic",
+          "type": "technology"
+        },
+        {
+          "name": "Kubernetes",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
           "type": "technology"
         },
         {
           "name": "NodeJS",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analysis & BI",
+        "Developer Evangelist & Advocate",
+        "Frontend Developer",
+        "Full-stack Developer",
+        "Lead Product Manager",
+        "Mobile Developer",
+        "Product Analyst",
+        "Product Design (UI/UX)",
+        "Product Manager",
+        "QA & Testing Engineer",
+        "Software Architect",
+        "Tech Lead"
       ]
     },
     "status": "searchingActively"
