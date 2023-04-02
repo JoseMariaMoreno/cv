@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Motril",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Motril"
       }
     },
     "relevantLinks": [
@@ -87,8 +86,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -188,6 +186,24 @@
           "type": "technology"
         }
       }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Desarrollador certificado Velneo 2023",
+        "startDate": "2022-12-01",
+        "finishDate": "2023-12-01",
+        "institution": {
+          "name": "Velneo",
+          "description": "Cada año me examino para renovar la certificación como desarrollador Velneo, que conozco aunque no es la principal herramienta de trabajo.",
+          "URL": "https://velneo.es/mivelneo/desarrolladores-certificados-velneo/",
+          "image": {
+            "alt": "sello H - 2023.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/02/7ccb0ef9-3672-4097-ac33-30fa99e9e547_sello-h---2023.png"
+          }
+        }
+      }
     ]
   },
   "careerPreferences": {
@@ -245,7 +261,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
