@@ -41,7 +41,7 @@
             "startDate": "2017-06-01",
             "challenges": [
               {
-                "description": "Desarrollo de aplicaciones móviles con Ionic o Electron, Visores web con HTML5 y API Rest con Node.JS, Express, PostgreSQL y MongoDB, desplegadas en local o en Heroku."
+                "description": "Desarrollo de aplicaciones móviles con Ionic o Electron, SPA web con HTML5/CSS/Javascript y API Rest con Node.JS, Express, PostgreSQL y MongoDB, desplegadas tanto en local o como en Cloud con Heroku.\nDesarrollo de Soluciones de análisis de negocio con QlikView."
               }
             ],
             "competences": [
