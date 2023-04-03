@@ -80,6 +80,46 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "DANTIA Tecnología",
+          "URL": "https://www.dantia.es"
+        },
+        "roles": [
+          {
+            "name": "Consultor ERP/CRM e integrador de sistemas",
+            "startDate": "2011-10-01",
+            "finishDate": "2017-07-01",
+            "challenges": [
+              {
+                "description": "Consultoría e implantación de soluciones de gestión empresarial ERP y CRM, integración con sistemas de comercio electrónico. Técnico preventa."
+              }
+            ],
+            "competences": [
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "VB.NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
