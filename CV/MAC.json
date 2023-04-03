@@ -142,67 +142,7 @@
     "hardSkills": [
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ionic",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "TypeScript",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PHP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Heroku",
           "type": "technology"
         }
       },
@@ -214,25 +154,25 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
           "name": "Mocha",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -250,7 +190,73 @@
       },
       {
         "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Heroku",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Vue",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Qlik",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Cypress",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Kafka",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ionic",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
           "type": "technology"
         }
       }
