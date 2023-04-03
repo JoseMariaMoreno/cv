@@ -148,37 +148,13 @@
       },
       {
         "skill": {
-          "name": "Angular2+",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Python",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Vue",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Bootstrap",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "MySQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "Ionic",
           "type": "technology"
         }
       },
@@ -196,7 +172,13 @@
       },
       {
         "skill": {
-          "name": "Mongoose",
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -208,7 +190,7 @@
       },
       {
         "skill": {
-          "name": "SQLServer",
+          "name": "Angular2+",
           "type": "technology"
         }
       },
@@ -226,19 +208,49 @@
       },
       {
         "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Mocha",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Express",
+          "name": "Vue",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Ionic",
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Mongoose",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Shopify",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Qlik",
           "type": "technology"
         }
       }
