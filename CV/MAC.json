@@ -33,7 +33,11 @@
     "jobs": [
       {
         "organization": {
-          "name": "Ériddes Informática Industrial, S.L."
+          "name": "Ériddes Informática Industrial, S.L.",
+          "image": {
+            "alt": "logo_eriddes_p.fw.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/d33ecdad-2231-426d-9fea-d173e1044f3e_logo_eriddes_p.png"
+          }
         },
         "roles": [
           {
