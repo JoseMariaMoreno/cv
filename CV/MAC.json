@@ -84,6 +84,10 @@
       {
         "organization": {
           "name": "DANTIA Tecnología",
+          "image": {
+            "alt": "Sin título.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/e1903778-70a2-4061-9836-03a7d7787288_sin-titulo.png"
+          },
           "URL": "https://www.dantia.es"
         },
         "roles": [
