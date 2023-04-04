@@ -148,7 +148,19 @@
       },
       {
         "skill": {
+          "name": "Express",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Angular2+",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
           "type": "technology"
         }
       },
@@ -166,25 +178,7 @@
       },
       {
         "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Express",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "Cypress",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Mocha",
           "type": "technology"
         }
       },
@@ -202,7 +196,7 @@
       },
       {
         "skill": {
-          "name": "Heroku",
+          "name": "Mocha",
           "type": "technology"
         }
       },
@@ -220,19 +214,25 @@
       },
       {
         "skill": {
-          "name": "MySQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "React",
           "type": "technology"
         }
       },
       {
         "skill": {
+          "name": "MySQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "SQLServer",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Heroku",
           "type": "technology"
         }
       },
@@ -250,13 +250,19 @@
       },
       {
         "skill": {
-          "name": "Bootstrap",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Python",
+          "name": "Prestashop",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bootstrap",
           "type": "technology"
         }
       },
@@ -268,7 +274,31 @@
       },
       {
         "skill": {
-          "name": "Prestashop",
+          "name": "Git",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trello",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Bitbucket",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Confluence",
           "type": "technology"
         }
       }
