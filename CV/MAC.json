@@ -454,11 +454,32 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Formación de formadores",
+        "startDate": "2012-01-01",
+        "finishDate": "2012-01-01",
+        "institution": {
+          "name": "Lehmberg",
+          "description": "Certificación exigida para impartir cursos de formación."
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Consultor en la incorporación de las TIC en la empresa",
         "startDate": "2008-01-01",
         "finishDate": "2008-12-01",
         "institution": {
           "name": "EOI Escuela de Negocios"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Microsoft Certified Professional 2006",
+        "startDate": "2006-01-01",
+        "finishDate": "2006-01-01",
+        "institution": {
+          "name": "Microsoft"
         }
       }
     ]
