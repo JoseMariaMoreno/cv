@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -9,11 +9,12 @@
       "name": "José María",
       "surnames": "Moreno Terrén",
       "title": "Desarrollador Full Stack",
-      "description": "Soy un apasionado del desarrollo de software, al cual llevo dedicado toda mi vida, disfruto desarrollando software y creando aplicaciones, es mi pasión además de mi profesión. También soy un gran aficionado al submarinismo, suelo jugar al fútbol (intento evitar que mis hijos me vean) y me gusta tocar la batería. Ah, y patrón de embarcaciones de recreo sin barco, que se le va a hacer.\n\nTengo una dilatadísima experiencia profesional en el mundo de la informática (no exagero, son 28 años cotizados a la seguridad social en el sector, ¡qué vértigo!), dedicados tanto al desarrollo frontend como backend, al desarrollo de aplicaciones móviles y en la implantación y desarrollo de ERPs, CRMs y comercio electrónico. Aunque no tengo la carrera he realizado multitud de cursos y he adquirido conocimientos de un amplio número de herramientas y tecnológicas, le invito a que ojee mi perfil de Linkedin donde podrá encontrar un amplio detalle así como algunas referencias interesantes. ",
+      "description": "Soy un apasionado del desarrollo de software, al cual llevo dedicado toda mi vida, disfruto desarrollando software y creando aplicaciones, es mi pasión además de mi profesión. \n\nTengo una dilatada experiencia profesional en el mundo de la informática, dedicados tanto al desarrollo Frontend como Backend, al desarrollo de aplicaciones móviles y en la implantación y desarrollo de ERPs, CRMs y comercio electrónico. A lo largo de todos estos años he realizado multitud de cursos y he adquirido conocimientos de un amplio número de herramientas y tecnológicas, las cuales he ido poniendo en práctica en los proyectos en los que me he ido involucrando.\n\nTambién soy un gran aficionado al submarinismo, suelo jugar al fútbol (intento evitar que mis hijos me vean) y me gusta tocar la batería. Ah, y patrón de embarcaciones de recreo sin barco, que se le va a hacer.",
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Motril"
+        "municipality": "Motril",
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -267,7 +268,8 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English"
+        "name": "English",
+        "level": "Full professional proficiency"
       }
     ],
     "hardSkills": [
@@ -508,6 +510,7 @@
         "Software Architect",
         "Tech Lead"
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }
