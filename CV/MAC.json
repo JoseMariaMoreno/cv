@@ -33,11 +33,7 @@
     "jobs": [
       {
         "organization": {
-          "name": "Ériddes Informática Industrial, S.L.",
-          "image": {
-            "alt": "logo_eriddes_p.fw.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/03/d33ecdad-2231-426d-9fea-d173e1044f3e_logo_eriddes_p.png"
-          }
+          "name": "Ériddes Informática Industrial, S.L."
         },
         "roles": [
           {
@@ -143,6 +139,65 @@
               },
               {
                 "name": "VB.NET",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Óptima Soluciones"
+        },
+        "roles": [
+          {
+            "name": "Partner de soluciones Sage Logic Class y Sage Murano, desarrollo e integración Web y comercio electrónico ",
+            "startDate": "2007-01-01",
+            "finishDate": "2011-10-01",
+            "challenges": [
+              {
+                "description": "Consultoría e implantación de soluciones de gestión empresarial ERP y CRM, integración con sistemas de comercio electrónico. Desarrollo de portales web corporativos y de comercio electrónico (Joomla y Magento)."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "HTML",
+                "type": "technology"
+              },
+              {
+                "name": "JavaScript",
+                "type": "technology"
+              },
+              {
+                "name": "Joomla",
+                "type": "technology"
+              },
+              {
+                "name": "Magento",
+                "type": "technology"
+              },
+              {
+                "name": "MySQL",
+                "type": "technology"
+              },
+              {
+                "name": "PHP",
+                "type": "technology"
+              },
+              {
+                "name": "Prestashop",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "Scss",
                 "type": "technology"
               }
             ]
