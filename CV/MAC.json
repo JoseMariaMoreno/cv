@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,8 +13,7 @@
       "location": {
         "country": "España",
         "region": "Andalucía",
-        "municipality": "Motril",
-        "notes": "Autocompleted using Google Maps API"
+        "municipality": "Motril"
       }
     },
     "relevantLinks": [
@@ -46,12 +45,16 @@
             "startDate": "2017-06-01",
             "challenges": [
               {
-                "description": "Desarrollo de aplicaciones móviles con Ionic o Electron, SPA web con HTML5/CSS/Javascript y API Rest con Node.JS, Express, PostgreSQL y MongoDB, desplegadas tanto en local o como en Cloud con Heroku.\nDesarrollo y publicación de Apps en Google Play y App Store.\nDesarrollo de Soluciones de análisis de negocio con QlikView."
+                "description": "Desarrollo de aplicaciones móviles/escritorio con Ionic y Electron, SPA web con HTML5/SCSS/JavaScript/TypeScript/Angular/React y API Rest con Node.JS, Express, PostgreSQL y MongoDB, desplegadas tanto en local como en Cloud.\nHe desarrollo y publicado 5 Apps en Google Play y App Store Apple, usando Ionic.\nExperiencia en programación y mantenimiento de soluciones de análisis de negocio con QlikView."
               }
             ],
             "competences": [
               {
                 "name": "Angular2+",
+                "type": "technology"
+              },
+              {
+                "name": "CSS",
                 "type": "technology"
               },
               {
@@ -79,7 +82,23 @@
                 "type": "technology"
               },
               {
+                "name": "React",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              },
+              {
+                "name": "SQLite",
+                "type": "technology"
+              },
+              {
                 "name": "Scss",
+                "type": "technology"
+              },
+              {
+                "name": "TypeScript",
                 "type": "technology"
               }
             ]
@@ -135,8 +154,7 @@
   "knowledge": {
     "languages": [
       {
-        "name": "English",
-        "level": "Full professional proficiency"
+        "name": "English"
       }
     ],
     "hardSkills": [
@@ -377,7 +395,6 @@
         "Software Architect",
         "Tech Lead"
       ]
-    },
-    "status": "searchingActively"
+    }
   }
 }
