@@ -147,6 +147,33 @@
       },
       {
         "organization": {
+          "name": "Møller & Co. A/S"
+        },
+        "roles": [
+          {
+            "name": "Departamento de informática y logística",
+            "startDate": "2007-01-01",
+            "finishDate": "2008-12-01",
+            "challenges": [
+              {
+                "description": "Responsable de informática y logística. Desarrollador de soluciones ad-hoc con .NET para la integración con sistemas de la central en Dinamarca."
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
           "name": "Óptima Soluciones"
         },
         "roles": [
