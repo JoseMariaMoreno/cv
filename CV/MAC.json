@@ -230,6 +230,37 @@
             ]
           }
         ]
+      },
+      {
+        "organization": {
+          "name": "Sage Logic Control",
+          "image": {
+            "alt": "Sage.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/04/10/6dd1626a-7f5d-4d71-90f3-d97266dcd3d4_sage.png"
+          }
+        },
+        "roles": [
+          {
+            "name": "Técnico implantación soluciones ERP y desarrollo a medida",
+            "startDate": "1997-03-01",
+            "finishDate": "2004-12-01",
+            "challenges": [
+              {
+                "description": "Técnico especialista en implantación de soluciones ERP Logic Win, Logic Class y Sage Murano así como el desarrollo a medida de nuevas funcionalidades sobre dichas plataformas. "
+              }
+            ],
+            "competences": [
+              {
+                "name": ".NET",
+                "type": "technology"
+              },
+              {
+                "name": "SQLServer",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
       }
     ]
   },
