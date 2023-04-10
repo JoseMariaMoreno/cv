@@ -454,6 +454,52 @@
       {
         "studyType": "certification",
         "degreeAchieved": true,
+        "name": "Curso de desarrollo ágil ",
+        "startDate": "2020-12-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "Juan J. Melero",
+          "description": "Curso impartido por Juan J. Merelo, Catedrático de Informática de la Universidad de Granada en el que se acompañó el aprendizaje con el desarrollo de un proyecto en equipo en el cual:\n- Se utilizó Git / Github para la publicación de todo el código compartido, realizando los correspondientes Commits, Pull Requests y Merges entre los miembros del equipo. \n- Todo el código fue desarrollado en Node.JS / TypeScript.\n- Se desarrolló de forma guiada por tests (TDD), se realizaron test unitarios de todo el código con Chai/Mocha.\n- Travis para la integración continua (CI)\n- Se alcanzo una cobertura de código del 77% usando Istambul y Codecov.io.",
+          "URL": "https://github.com/JoseMariaMoreno/WeatherAnalytics"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Express",
+            "type": "technology"
+          },
+          {
+            "name": "Git",
+            "type": "technology"
+          },
+          {
+            "name": "Github",
+            "type": "technology"
+          },
+          {
+            "name": "Mocha",
+            "type": "technology"
+          },
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          },
+          {
+            "name": "Travis CI",
+            "type": "technology"
+          },
+          {
+            "name": "TypeScript",
+            "type": "technology"
+          },
+          {
+            "name": "chai",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
         "name": "Formación de formadores",
         "startDate": "2012-01-01",
         "finishDate": "2012-01-01",
